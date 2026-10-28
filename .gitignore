@@ -1,0 +1,10 @@
+node_modules
+dist
+coverage
+.env
+uploads/avatars/*
+!uploads/avatars/.gitkeep
+*.log
+.DS_Store
+prisma/*.db
+prisma/*.db-journal
